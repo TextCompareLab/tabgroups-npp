@@ -40,4 +40,4 @@ GPL-3.0-or-later. Includes code from the Notepad++ plugin template and headers (
 
 ---
 
-בחסות [TextCompareLab](https://textcomparelab.com)
+Sponsored by [TextCompareLab](https://textcomparelab.com)
