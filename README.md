@@ -37,3 +37,7 @@ Organize your open Notepad++ tabs into named groups (for example Work, Logs, Per
 ## License
 
 GPL-3.0-or-later. Includes code from the Notepad++ plugin template and headers (GPL) and Scintilla headers. Full texts are in `LICENSE-GPL-3.0.txt`, `THIRD-PARTY-NOTICES.txt` and `licenses/` in every download.
+
+---
+
+בחסות [TextCompareLab](https://textcomparelab.com)
