@@ -2,7 +2,7 @@
 
 Organize your open Notepad++ tabs into named groups (for example Work, Logs, Personal), save the groups, and reopen them later.
 
-**Status: beta. Not yet tested inside a running Notepad++.** Try it with sample files and no unsaved work. Please report exactly what happened.
+**Beta. Download and installation have been checked by a user. Full feature and compatibility testing is still pending.** Try it with sample files and no unsaved work. Please report exactly what happened.
 
 ## Features
 
