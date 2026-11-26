@@ -1,0 +1,22 @@
+TabGroups third-party components and licenses
+=============================================
+Combined work: GNU General Public License version 3 or later (LICENSE-GPL-3.0.txt).
+Complete corresponding source code: the source/ folder of this bundle (build.sh builds it with Zig).
+
+Source code included in the plugin
+1. Notepad++ plugin template, https://github.com/npp-plugins/plugintemplate, Don HO.
+   GNU GPL v2 or later. Text: licenses/GPL-2.0-plugintemplate.txt.
+2. Notepad++ plugin and docking headers (Notepad_plus_msgs.h, PluginInterface.h, menuCmdID.h,
+   DockingFeature/*), Copyright Don HO and Jens Lorenz. GNU GPL v3 or later.
+   Text: LICENSE-GPL-3.0.txt (the Notepad++ COPYING file, which carries the GPL v3).
+3. Scintilla.h and Sci_Position.h, Copyright Neil Hodgson. Permissive license: licenses/Scintilla-License.txt.
+
+Runtime code linked into the DLLs (supplied by the Zig 0.17.1 toolchain, pip package "ziglang")
+4. LLVM libc++, libc++abi and libunwind: Apache License 2.0 with LLVM Exceptions.
+   Texts: licenses/LLVM-libcxx-LICENSE.TXT, LLVM-libcxxabi-LICENSE.TXT, LLVM-libunwind-LICENSE.TXT
+   (each also lists the MIT/BSD-style terms for specific files).
+5. mingw-w64 runtime: Zope Public License 2.1 with the file-level exceptions described in the text.
+   Text: licenses/mingw-w64-COPYING-ZPL-2.1.txt.
+6. Zig compiler-rt and support code: MIT. Text: licenses/Zig-compiler-rt-MIT.txt.
+Files 4-6 were copied verbatim from the Zig distribution used to build this bundle.
+This is a good-faith compliance effort, not legal advice.
